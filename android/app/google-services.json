@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "857639152087",
+    "firebase_url": "https://form-e51ed-default-rtdb.firebaseio.com",
+    "project_id": "form-e51ed",
+    "storage_bucket": "form-e51ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857639152087:android:4eb34ce033d4a7a9ed4392",
+        "android_client_info": {
+          "package_name": "com.example.fourm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4UInFPEnUheFJ-J_FEUao0bRA5XpcAJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
